@@ -1,19 +1,18 @@
 # Earth-Our-Planet
-🌍 Earth — A Pure HTML Showcase A beautifully minimalist, HTML‑only educational webpage dedicated to exploring Earth, our home planet. Designed for clarity and accessibility, this project features static content about Earth’s geography, structure, atmosphere, and life-supporting systems—without any CSS or JavaScript dependencies.
+🌍 **Earth** — A Pure HTML Showcase A beautifully minimalist, HTML‑only educational webpage dedicated to exploring Earth, our home planet. Designed for clarity and accessibility, this project features static content about Earth’s geography, structure, atmosphere, and life-supporting systems—without any CSS or JavaScript dependencies.
 
-📘 Key Features
-Plain HTML focused on clean structure and semantic markup.
+# Earth — An Educational HTML Webpage
 
-Sections include:
+A simple, single-page educational site about Earth, built with only HTML.
 
-=>Planet Earth overview: formation, structure, and life.
+## What it covers
+- Earth's formation, internal structure, and geology
+- Land and ocean distribution
+- Atmospheric composition
+- Rotation, orbit, and seasonal changes
 
-=>Surface and water distribution.
+## Why HTML only?
+- Easy to understand and modify
+- Lightweight and fast-loading
+- Great for beginners learning HTML structure
 
-=>Atmospheric composition.
-
-=>Rotation, orbit, and seasonal cycles.
-
-=>No external styling or scripting—just pure, self-contained HTML.
-
-=>Easy to view offline: simply open index.html in your browser.
